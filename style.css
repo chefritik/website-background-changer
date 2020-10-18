@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+	text-transform:uppercase;
+	font-family: 'Righteous', cursive;
+	background:linear-gradient(to right,red,yellow);
+	letter-spacing: 0.9em;
+	width:100%;
+	font-size: 20px;
+
+
+}
+h1:hover,h2:hover{
+	transform: scale(1.1);
+
+}
